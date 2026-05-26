@@ -1,0 +1,2 @@
+# Dev/Test dependencies (keep runtime requirements.txt minimal)
+httpx==0.28.1
